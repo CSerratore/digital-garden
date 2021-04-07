@@ -5,3 +5,5 @@
 3. Does the entity have a unique identity?
 4. Is the entity composed of only value objects and other entities?
 5. Does the entity encapsulate the business rule invariants of the domain?
+
+I'll revisit and expand on each of the items in this list.
